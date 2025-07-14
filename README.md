@@ -25,12 +25,12 @@ To use flowR, open the project in RStudio and go to `Addins` > `flowR`.
 
 **Launch in your Browser:**
 
-🚀 **MyBinder:** [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/code-inspect-binder/osf_9qbwv-f/HEAD?urlpath=rstudio)
+🚀 **MyBinder:** [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/meet261/osf_9qbwv-f/HEAD?urlpath=rstudio)
 
    * This will launch the project in an interactive RStudio environment in your web browser.
    * Please note that Binder may take a few minutes to build the environment.
 
-🚀 **NFDI JupyterHub:** [![NFDI](https://nfdi-jupyter.de/images/nfdi_badge.svg)](https://hub.nfdi-jupyter.de/r2d/gh/code-inspect-binder/osf_9qbwv-f/HEAD?urlpath=rstudio)
+🚀 **NFDI JupyterHub:** [![NFDI](https://nfdi-jupyter.de/images/nfdi_badge.svg)](https://hub.nfdi-jupyter.de/r2d/gh/meet261/osf_9qbwv-f/HEAD?urlpath=rstudio)
 
    * This will launch the project in an interactive RStudio environment on the NFDI JupyterHub platform.
 
